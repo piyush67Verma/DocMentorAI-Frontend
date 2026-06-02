@@ -164,13 +164,13 @@ const DashboardPage = () => {
                     </p>
                   </div>
 
-                  {activity.link && (
+                  {/*activity.link && (
                     <a
                       href={activity.link}
                       className="ml-4 px-4 py-2 text-xs font-semibold text-orange-600 hover:text-orange-700 hover:bg-orange-50 rounded-lg transition-all duration-200 whitespace-nowrap">
                       View
                     </a>
-                  )}
+                  )*/}
                 </div>
               ))}
           </div>
